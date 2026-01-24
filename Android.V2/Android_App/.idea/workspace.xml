@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="Bai1">
-      <change afterPath="$PROJECT_DIR$/src/Homeword_2nd/Bai1.kt" afterDir="false" />
+    <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="full bai tap thuc hanh">
+      <change afterPath="$PROJECT_DIR$/src/Practice/BaiC1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -50,11 +51,12 @@
   "keyToString": {
     "Kotlin.Bai1Kt.executor": "Run",
     "Kotlin.Bai2Kt.executor": "Run",
+    "Kotlin.BaiC1Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "second__lesson",
+    "git-widget-placeholder": "#4 on second__lesson",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Learning_Android_XuanDinh/Android.V2/Android_App/src/Main.kt",
     "vue.rearranger.settings.migration": "true"
@@ -90,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1768150216676</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="full bai tap thuc hanh">
+      <option name="closed" value="true" />
+      <created>1769063551295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769063551295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bai1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bai1" />
+    <MESSAGE value="full bai tap thuc hanh" />
+    <option name="LAST_COMMIT_MESSAGE" value="full bai tap thuc hanh" />
   </component>
 </project>
