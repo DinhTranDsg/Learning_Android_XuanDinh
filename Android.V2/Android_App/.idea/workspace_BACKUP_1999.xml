@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="Bai1">
+      <change afterPath="$PROJECT_DIR$/src/BaiTapIF/Bai1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTapIF/Bai2.kt" afterDir="false" />
+=======
     <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="full bai tap thuc hanh">
       <change afterPath="$PROJECT_DIR$/src/Practice/BaiC1.kt" afterDir="false" />
+>>>>>>> second_lesson
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +33,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< HEAD
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DinhTranDsg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DinhTranDsg/Learning_Android_XuanDinh.git",
+    "accountId": "d78055ed-9dfa-4ff2-8574-6947c7437c25"
+  }
+}]]></component>
+=======
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -39,6 +59,7 @@
     &quot;accountId&quot;: &quot;d78055ed-9dfa-4ff2-8574-6947c7437c25&quot;
   }
 }</component>
+>>>>>>> second_lesson
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -51,12 +72,19 @@
   "keyToString": {
     "Kotlin.Bai1Kt.executor": "Run",
     "Kotlin.Bai2Kt.executor": "Run",
+<<<<<<< HEAD
+=======
     "Kotlin.BaiC1Kt.executor": "Run",
+>>>>>>> second_lesson
     "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
+    "git-widget-placeholder": "#3 on first-lesson",
+=======
     "git-widget-placeholder": "#4 on second__lesson",
+>>>>>>> second_lesson
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Learning_Android_XuanDinh/Android.V2/Android_App/src/Main.kt",
     "vue.rearranger.settings.migration": "true"

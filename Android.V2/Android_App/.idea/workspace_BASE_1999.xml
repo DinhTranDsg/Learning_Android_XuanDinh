@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="full bai tap thuc hanh">
-      <change afterPath="$PROJECT_DIR$/src/Practice/BaiC1.kt" afterDir="false" />
+    <list default="true" id="d445af57-d892-4226-a10a-94f607d3b6a1" name="Changes" comment="Bai1">
+      <change afterPath="$PROJECT_DIR$/src/Bai2/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="package-info" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -22,23 +21,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="first-lesson" />
+        <entry key="$PROJECT_DIR$/../.." value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;DinhTranDsg&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DinhTranDsg/Learning_Android_XuanDinh.git&quot;,
-    &quot;accountId&quot;: &quot;d78055ed-9dfa-4ff2-8574-6947c7437c25&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,14 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Kotlin.Bai1Kt.executor": "Run",
-    "Kotlin.Bai2Kt.executor": "Run",
-    "Kotlin.BaiC1Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#4 on second__lesson",
+    "git-widget-placeholder": "first-lesson",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Learning_Android_XuanDinh/Android.V2/Android_App/src/Main.kt",
     "vue.rearranger.settings.migration": "true"
@@ -64,14 +47,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
-      <recent name="BaiTapIF" />
       <recent name="Bai1" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -92,20 +75,11 @@
       <option name="project" value="LOCAL" />
       <updated>1768150216676</updated>
     </task>
-    <task id="LOCAL-00002" summary="full bai tap thuc hanh">
-      <option name="closed" value="true" />
-      <created>1769063551295</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1769063551295</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bai1" />
-    <MESSAGE value="full bai tap thuc hanh" />
-    <option name="LAST_COMMIT_MESSAGE" value="full bai tap thuc hanh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bai1" />
   </component>
 </project>
